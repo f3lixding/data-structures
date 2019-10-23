@@ -9,8 +9,6 @@ var Stack = function() {
 };
 
 var stackMethods = {};
-
-var stackMethods = {};
 // adding methods
 stackMethods.push = function(value) {
   this.max++;
